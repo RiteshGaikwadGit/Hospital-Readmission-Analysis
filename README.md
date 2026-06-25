@@ -80,7 +80,7 @@ Built an interactive Power BI dashboard to monitor:
 
 ## 📸 Dashboard
 
-![Dashboard](images/dashboard.png)
+![Hospital Readmission Dashboard](Images/dashboard.png)
 
 ---
 
@@ -116,6 +116,15 @@ WHERE readmitted_flag = 'Yes'
 GROUP BY time_in_hospital
 ORDER BY total;
 ```
+## 🗄️ SQL Queries
+
+### SQL Analysis
+
+![SQL Queries](Images/Sql%20Query.png)
+
+## 📊 SQL Query
+
+![SQL Query Results](Images/Query.png)
 
 ---
 
